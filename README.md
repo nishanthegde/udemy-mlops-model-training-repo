@@ -1,1 +1,1 @@
-# udemy-ml-ops-model-training-repo
+# udemy-mlops-model-training-repo
